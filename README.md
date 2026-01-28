@@ -1,6 +1,6 @@
-# Task-1-Python-full-stack
+
 task 1 for Python full stack devlopement internship 
-Running screenshot
+Running screenshot <br>
 <img width="1913" height="667" alt="image" src="https://github.com/user-attachments/assets/09df69d4-3d46-4b71-a99d-29509c0b8155" />
 
 Add User section inckude following <br>
