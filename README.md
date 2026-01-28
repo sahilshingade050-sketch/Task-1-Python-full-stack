@@ -13,3 +13,5 @@ Table include same columns as user input but the table assigns ID by the input s
 
 Following is a screenshot of the vs code interface where I coded this web <br>
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5e7872ac-7f77-4349-8fae-16a32b60c2fb" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e634d6dc-21a2-485a-991f-3554a0948b1d" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/206bec24-6b10-4f0c-81f5-039ebfb446b3" />
